@@ -135,6 +135,9 @@ to understand and maintain.
 
 ## Resources
 
-- [Cohesion]: https://en.wikipedia.org/wiki/Cohesion_(computer_science)
+- [Cohesion][cohesion]
+- [Coupling][coupling]
 
+[cohesion]: https://en.wikipedia.org/wiki/Cohesion_(computer_science)
+[coupling]: https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 [solid]: https://en.wikipedia.org/wiki/SOLID
